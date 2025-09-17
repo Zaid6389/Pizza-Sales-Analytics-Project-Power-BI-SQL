@@ -35,6 +35,8 @@ This ensured that all dashboard metrics aligned with the raw transactional data.
 [Click here to view](https://github.com/user-attachments/assets/6821f6de-a3bf-4ab3-9347-7e902a9312f4)
 <a href="https://github.com/user-attachments/assets/6821f6de-a3bf-4ab3-9347-7e902a9312f4" target="_blank"> </a>
 
+## SQL Queries
+[Click here to view](https://github.com/user-attachments/files/22377779/Pizza.Sales.Project.SQL.Queries.pdf)
 
 ## Credits
 Created by Mohammad Zaid  
