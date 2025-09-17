@@ -31,6 +31,8 @@ Custom SQL queries were used to verify:
 
 This ensured that all dashboard metrics aligned with the raw transactional data.
 
+## Dashboard Demo
+https://github.com/user-attachments/assets/6821f6de-a3bf-4ab3-9347-7e902a9312f4
 
 ## Credits
 Created by Mohammad Zaid  
